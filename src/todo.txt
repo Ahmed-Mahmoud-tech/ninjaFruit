@@ -1,0 +1,10 @@
+react icons
+redux
+react router dom
+styled component
+tailwind
+formik
+yup
+toastify
+prime react
+axios
